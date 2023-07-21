@@ -20,7 +20,7 @@ const HotItems = () => {
       }
     };
     fetchdata();
-  }, prodects);
+  });
   return (
     <div className="hotItems">
       <div className="items">
